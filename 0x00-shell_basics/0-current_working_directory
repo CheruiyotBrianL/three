@@ -1,1 +1,2 @@
-#!/bin/bash #Script yes! echo "pwd" 
+#!/bin/bash
+pwd
